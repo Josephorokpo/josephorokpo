@@ -6,7 +6,7 @@ I'm a passionate software engineering student at ALX Africa, with a strong found
 
 Technical Skills:
 
-Programming Languages: Python (Django), JavaScript (React)
+Programming Languages: Python (Django), Node.js, JavaScript (React)
 Version Control: Git & GitHub
 Interests:
 
