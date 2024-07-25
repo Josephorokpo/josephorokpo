@@ -2,12 +2,14 @@ Hi there, I am Joseph Orokpo
 
 Full-Stack Developer | ALX Africa
 
-I'm a passionate software engineering student at ALX Africa, with a strong foundation in Information and Communication Technology (Federal University of Technology, Yola) and business acumen (MBA, University of Nigeria Nsukka). I'm equally interested in both back-end and front-end development, allowing me to build full-stack web applications.
+I'm a passionate software engineering student of ALX Africa (graduating 29th July, 2024), with a strong foundation in Information and Communication Technology (Federal University of Technology, Yola) and business acumen (MBA, University of Nigeria Nsukka). I'm equally interested in both back-end and front-end development, allowing me to build full-stack web applications.
 
 Technical Skills:
 
 Programming Languages: Python (Django), Node.js, JavaScript (React)
 Version Control: Git & GitHub
+Database: PostgreSQL, MySQL, MongoDB
+
 Interests:
 
 Open Source Contribution: Eager to contribute to open-source projects and collaborate with the developer community.
